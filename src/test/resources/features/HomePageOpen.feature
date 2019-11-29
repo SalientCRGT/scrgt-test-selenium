@@ -6,3 +6,4 @@ Background:  User can open SalientCRGT home page
 
 Scenario: User opens SalientCRGT home page
 Then SalientCRGT home page opened
+
